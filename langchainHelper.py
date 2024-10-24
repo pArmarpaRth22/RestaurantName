@@ -7,7 +7,6 @@ from langchain.chains import SimpleSequentialChain
 
 
 
-os.environ["GROQ_API_KEY"]=api_key
 
 
 
