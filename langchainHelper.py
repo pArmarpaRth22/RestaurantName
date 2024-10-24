@@ -1,6 +1,5 @@
 import os
 
-from secret_key import api_key
 from langchain_groq import ChatGroq
 from langchain_core.prompts import ChatPromptTemplate
 from langchain.chains import LLMChain
